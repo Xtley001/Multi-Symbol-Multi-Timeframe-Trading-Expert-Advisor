@@ -1,6 +1,4 @@
-# RSI Surf Scout EA v1.1
-
-## 📊 Professional Multi-Symbol Multi-Timeframe Trading Expert Advisor
+## 📊RSI Surf Scout - A Multi-Symbol Multi-Timeframe Trading Expert Advisor
 
 ### 🎯 Short Description
 RSI Surf Scout is an advanced automated trading system that combines RSI momentum analysis with EMA trend filtering and sophisticated risk management. Designed for prop firm traders and professional accounts, it manages multiple symbols across multiple timeframes simultaneously with built-in prop firm protections and comprehensive trade journaling.
