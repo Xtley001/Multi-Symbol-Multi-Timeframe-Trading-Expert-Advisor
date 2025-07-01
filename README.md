@@ -1,0 +1,2 @@
+# Multi-Symbol-Multi-Timeframe-Trading-Expert-Advisor
+RSI Surf Scout is an advanced automated trading system that combines RSI momentum analysis with EMA trend filtering and sophisticated risk management. Designed for prop firm traders and professional accounts, it manages multiple symbols across multiple timeframes simultaneously with built-in prop firm protections and comprehensive trade journaling.
